@@ -51,9 +51,6 @@ class Cadastro{
 			"email"=>$this->getEmail();
 			"senha"=>$this->getSenha();
 
-
-
-
 		));
 	}
 } 
